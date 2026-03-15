@@ -1,0 +1,5 @@
+{
+  "name": "Manuscript Narrative Engine",
+  "description": "Processes manuscripts into structured JSON character, location, and artifact cards.",
+  "requestFramePermissions": []
+}
